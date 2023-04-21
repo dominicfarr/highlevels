@@ -1,3 +1,3 @@
-# highlevels
+# Highlevels
 
 My notes on technologies.
